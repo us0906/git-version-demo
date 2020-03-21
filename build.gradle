@@ -2,11 +2,11 @@ plugins {
     id 'java'
     id 'com.palantir.git-version' version '0.12.2'
     id 'com.palantir.docker' version '0.22.1'
-    id 'org.springframework.boot' version '2.2.4.RELEASE'
+    id 'org.springframework.boot' version '2.2.5.RELEASE'
 }
 
 group 'com._98elements'
-version '1.0-SNAPSHOT'
+//version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 
